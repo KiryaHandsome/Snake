@@ -12,3 +12,6 @@ This is source code of my implementation "Snake".
 
 
 ![](https://github.com/KiryaP/Snake/blob/main/image3.jpg)
+
+
+![](https://github.com/KiryaP/Snake/blob/main/6cqgbz.gif)
